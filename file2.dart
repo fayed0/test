@@ -5,4 +5,9 @@ class Test2 {
     print(a + b);
     print(a + b);
   }
+
+  gama2() {
+    print(a + b);
+    print(a + b);
+  }
 }
