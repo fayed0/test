@@ -4,4 +4,5 @@ void main() {
   print("Hello World");
   print("Test 2");
   Test2;
+  Test2;
 }
