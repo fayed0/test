@@ -5,4 +5,24 @@ void main() {
   print("Test 2");
   Test2();
   Test2();
+  print("Hello World");
+  print("Test 2");
+  Test2();
+  Test2();
+  print("Hello World");
+  print("Test 2");
+  Test2();
+  Test2();
+  print("Hello World");
+  print("Test 2");
+  Test2();
+  Test2();
+  print("Hello World");
+  print("Test 2");
+  Test2();
+  Test2();
+  print("Hello World");
+  print("Test 2");
+  Test2();
+  Test2();
 }
